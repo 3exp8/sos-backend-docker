@@ -1,2 +1,3 @@
 Build docker image:
-  ./cicd/build-docker.sh 
+
+`./cicd/build-docker.sh`
